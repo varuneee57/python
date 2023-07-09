@@ -1,3 +1,7 @@
+'''STRINGS AND
+ITS
+OPERATIONS '''
+
 def can_obtain_string(str1, str2):
     i = 0
     j = 0
