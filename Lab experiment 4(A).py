@@ -1,6 +1,6 @@
-# Python3 code to convert a tuple
-# into a string using a for loop
-
+'''TUPLES AND
+ITS
+OPERATION'''
 
 def convertTuple(tup):
 		# initialize an empty string
