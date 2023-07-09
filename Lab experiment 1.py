@@ -1,8 +1,8 @@
-
 '''PROGRAMS ON
 SELECTION AND
 ITERATION
 OPERATION'''
+
 num = int(input("Enter an integer: "))
 if num % 2 != 0:
     factorial = 1
