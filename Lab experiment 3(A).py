@@ -1,5 +1,7 @@
 ''' LIST AND ITS
-OPERATIONS '''
+OPERATIONS
+
+A) Positive and Negative Indexing'''
 
 def find_occurrence(numbers, target):
     positive_indices = []
