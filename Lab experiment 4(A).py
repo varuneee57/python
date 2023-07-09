@@ -1,6 +1,7 @@
 '''TUPLES AND
 ITS
 OPERATION'''
+a. Write a python program to convert tuple to a string
 
 def convertTuple(tup):
 		# initialize an empty string
