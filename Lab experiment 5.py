@@ -1,7 +1,5 @@
-# Python program to check
-# if two lists have at-least
-# one element common
-# using traversal of list
+''' SETS AND ITS
+OPERATIONS '''
 
 def common_data(list1, list2):
 	result = False
