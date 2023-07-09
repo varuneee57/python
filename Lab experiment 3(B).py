@@ -1,3 +1,8 @@
+''' LIST AND ITS
+OPERATIONS
+
+B) CHECK FOR ASCENDING ORDER IN LIST :'''
+
 def is_ascending(numbers):
     for i in range(len(numbers) - 1):
         if numbers[i] > numbers[i + 1]:
